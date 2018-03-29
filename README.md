@@ -34,7 +34,7 @@ Requires the packages: numpy, scipy(sparse), matplotlib, time and mpl_toolkits.m
 Note that pruned DFT spread FBMC does not require a CP and thus has a higher data rate than conventional SC-FDMA.
 
 ----------
-### Pruned DFT spread FBMC shows very good spectral properties, comparable to FBMC: 
+### Pruned DFT spread FBMC has superior spectral properties, comparable to FBMC: 
 
 ![](png/Figure_4.png)
 
