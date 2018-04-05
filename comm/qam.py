@@ -15,7 +15,7 @@ class QAM:
     
     Parameters
     ----------
-    m : Signal constellation order. Can be m = 4, 16, 64, 256, 1024, 4096, ... 
+    m : Signal constellation order. Can be m = 2**(2n) = 4, 16, 64, 256, 1024, 4096, ... 
    
     Usage
     ----------        

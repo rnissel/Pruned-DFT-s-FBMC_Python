@@ -1,6 +1,6 @@
 # Pruned DFT spread FBMC
 
-Pruned DFT spread FBMC is a novel transmission technique with the remarkable properties of a low PAPR, low latency transmissions and a high spectral efficiency.
+Pruned DFT spread FBMC is a novel modulation scheme with the remarkable properties of a low PAPR, low latency transmissions and a high spectral efficiency.
 It is closely related to FBMC, OFDM and SC-FDMA and I first proposed it in my [PhD thesis](http://publik.tuwien.ac.at/files/publik_265168.pdf), see Chapter 6. A more detailed description is currently under review in IEEE Transactions on Communications.  
 
 
