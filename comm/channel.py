@@ -68,9 +68,11 @@ class DoublySelectiveChannel:
             if power_delay_profile == 'VehicularA':
                 ref_pdp_dB = np.array([0,-1,-9,-10,-15,-20])
                 ref_pdp_delay = np.array([0,310e-9,710e-9,1090e-9,1730e-9,2510e-9])
+                desired_rms_delay_spread = 370e-9
             elif power_delay_profile == 'PedestrianA':
                 ref_pdp_dB = np.array([0,-9.7,-19.2,-22.8])
                 ref_pdp_delay = np.array([0,110e-9,190e-9,410e-9])
+                desired_rms_delay_spread = 46e-9               
             elif power_delay_profile == 'Flat':
                 ref_pdp_dB = np.array([0])
                 ref_pdp_delay = np.array([0])
