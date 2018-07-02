@@ -16,7 +16,7 @@ Furthermore, the included classes (QAM, DoublySelectiveChannel, OFDM, FBMC) can 
 
 ## Usage
 
-Just run **Simulation.py** in Python. 
+Just run **Simulation.py** in Python 3. 
 
 Requires the packages: numpy, scipy(sparse), matplotlib, time and mpl_toolkits.mplot3d.  
 
